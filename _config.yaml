@@ -5,7 +5,7 @@ author: "Bob the Builder"
 url: "https://tamkeen-cloud-engineering.github.io/"
 baseurl: "/example-personal-website"
 
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-sitemap
